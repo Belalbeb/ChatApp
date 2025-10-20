@@ -34,5 +34,5 @@ It allows users to send and receive messages instantly with a clean and responsi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ChatApp.git
+git clone https://github.com/Belalbeb/ChatApp.git
 cd ChatApp
